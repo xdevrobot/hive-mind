@@ -14,7 +14,8 @@
     "configure-claude": "./src/configure-claude.mjs",
     "start-screen": "./src/start-screen.mjs",
     "hive-screens": "./src/hive-screens.mjs",
-    "hive-telegram-bot": "./src/telegram-bot.mjs"
+    "hive-telegram-bot": "./src/telegram-bot.mjs",
+    "architect": "./src/architect.mjs"
   },
   "scripts": {
     "test": "node scripts/run-tests.mjs --suite default",
